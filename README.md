@@ -53,4 +53,4 @@ MIT License - see [LICENSE](https://github.com/HemanthRaj0C/DevHub/blob/main/LIC
 
 ---
 
-**Built by developers, for developers** | [GitHub](https://github.com/yourusername/devhub) | [Discord](https://discord.gg/devhub)
+**Built by developers, for developers**
